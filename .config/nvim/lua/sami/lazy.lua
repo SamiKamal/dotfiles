@@ -41,6 +41,7 @@ require("lazy").setup({
     { 'hrsh7th/cmp-nvim-lsp' },
     { 'hrsh7th/nvim-cmp' },
     { 'L3MON4D3/LuaSnip' },
+    { 'lewis6991/gitsigns.nvim' },
     { 'nvim-treesitter/nvim-treesitter-context' },
     {
         'nvimtools/none-ls.nvim',
